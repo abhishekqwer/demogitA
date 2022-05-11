@@ -1,2 +1,2 @@
 # demogitA
-A small demo repository to show the basic Git workflwo
+A small demo repository to show the basic Git workflawe
